@@ -1,15 +1,20 @@
 #include "main.h"
 
 /**
- * _islower - main function
- *
- * @c: character to compare
- *
- * Return: 1 if true, 0 if false
- *
- */
+  * print_alphabet_x10 -> prints more lowercase
+  */
+void print_alphabet_x10(void)
 
-int _islower(int c)
 {
-	return (c >= 'a' && c <= 'z');
+	int j;
+	int x;
+
+	for (x = 0 ; x < 10 ; x++)
+	{
+		for (j = 'a' ; j <= 'z' ; j++)
+		{
+			_putchar(j);
+		}
+		_putchar ('\n');
+	}
 }
