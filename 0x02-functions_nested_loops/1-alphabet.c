@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "main.h"
 /**
 * print_alphabet - function to print abc
@@ -14,3 +15,6 @@ void print_alphabet(void)
 	}
 _putchar('\n');
 }
+=======
+
+>>>>>>> d814814837dcd2b261d2b693d6e0020f11f15176
