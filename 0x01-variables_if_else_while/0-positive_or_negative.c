@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 #include <stdlib.h>
 #include <time.h>
@@ -31,3 +32,22 @@ int main(void)
 	}
 	return (0);
 }
+=======
+#include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
+
+/**
+* print if the number is postive, zero, or negative
+*
+*Description: using the main function
+
+
+
+
+
+
+
+
+
+>>>>>>> cb3d9fbd4e670f080a20782cf0bf7d3771d7cc0e
